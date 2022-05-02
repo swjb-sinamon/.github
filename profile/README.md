@@ -22,5 +22,5 @@
 
 ## 💬 프로젝트들
 
-- [수정과 프론트엔드](https://github.com/swjb-sinamon/sinamon-frontend/)
+- [수정과 프론트엔드](https://github.com/swjb-sinamon/sinamon-frontend-v2/)
 - [수정과 백엔드](https://github.com/swjb-sinamon/sinamon-backend/)
