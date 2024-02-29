@@ -1,7 +1,5 @@
 # 수정과: 학과 인트라넷 프로젝트
 
-[snm.itsw.info](https://snm.itsw.info)
-
 <div align="center">
     <br/>
     <br/>
